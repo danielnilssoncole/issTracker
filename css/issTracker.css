@@ -1,0 +1,56 @@
+html {
+  font-family: sans-serif;
+}
+
+body {
+  background-color: #58E586;
+  margin: 0 auto;
+}
+
+#mapid {
+  height: 380px;
+  width: 630px;
+}
+
+.mapcon {
+  display: flex;
+  justify-content: center;
+}
+
+.row {
+     margin-right: 0px;
+     margin-left: 0px;
+}
+
+.lastResult {
+  color: white;
+  padding: 3px;
+  font-size: 2em;
+}
+
+h1, h2, p, label, span, a  {
+  font-family: 'Roboto', sans-serif;
+  color: white;
+}
+
+.mt50 {
+  margin-top: 50px;
+}
+.mt30 {
+  margin-top: 30px;
+}
+.mt5 {
+  margin-top: 5px;
+}
+
+.mb20 {
+  margin-bottom: 20px;
+}
+
+.pl5 {
+  padding-left: 5px;
+}
+
+.pr5 {
+  padding-right: 5px;
+}
